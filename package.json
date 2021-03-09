@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-vercel-demo",
+  "private": true,
+  "dependencies": {
+    "telegraf": "^4.1.2"
+  }
+}
